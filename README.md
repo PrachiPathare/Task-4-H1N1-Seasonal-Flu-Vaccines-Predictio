@@ -1,0 +1,2 @@
+# Task-4-H1N1-Seasonal-Flu-Vaccines-Predictio
+In this project we wish to analyse and predict how likely people will take H1N1 and  seasonal flu vaccine based on data collected by united states National 2009 H1N1 Flu Survey.  This phone survey asked respondents whether they had received the H1N1 and  seasonal flu vaccines, in conjunction with questions about themselves. These  additional questions covered their social, economic, and demographic background,  opinions on risks of illness and vaccine effectiveness, and behaviours towards  mitigating transmission.
